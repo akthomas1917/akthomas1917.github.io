@@ -21,40 +21,37 @@
 	font-family: 'Comfortaa', cursive;
 }
 
-.profilepic
+.homepic
 {
 	position: absolute;
-	top: 890px;
-	left: 20px;
+	top: 780px;
+	left: 140px;
 }
 
-.bio
+.resume
 {
-	color: white;
 	position: absolute;
-	top: 900px;
-  	left: 540px;
-	font-size: 20px;
-	text-align: left;
-	font-family: 'Comfortaa', cursive;
-	line-height: 1.6;
+	top: 780px;
+	left: 850px;
 }
 
-.bio2
+.twitter
 {
-	color: white;
 	position: absolute;
-	top: 1390px;
-  	left: 30px;
-	font-size: 20px;
-	text-align: left;
-	font-family: 'Comfortaa', cursive;
-	line-height: 1.6;
+	top: 850px;
+	left: 532px;
 }
 
-.trumpetspic
+.linkedin
 {
 	position: absolute;
-	top: 1120px;
-	left: 970px;
+	top: 1080px;
+	left: 532px;
+}
+
+.github
+{
+	position: absolute;
+	top: 1300px;
+	left: 532px;
 }
