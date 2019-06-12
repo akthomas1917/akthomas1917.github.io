@@ -1,0 +1,60 @@
+.txt-rotate
+{
+	position: absolute;
+
+	top: 260px;
+	left: 560px;
+  font-size: 100px;
+  color: white;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+.about
+{
+	position: absolute;
+	top: 680px;
+	left: 540px;
+	padding: 0;
+	color: white;
+	font-size: 95px;
+	font-family: 'Comfortaa', cursive;
+}
+
+.profilepic
+{
+	position: absolute;
+	top: 890px;
+	left: 20px;
+}
+
+.bio
+{
+	color: white;
+	position: absolute;
+	top: 900px;
+  	left: 540px;
+	font-size: 20px;
+	text-align: left;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.6;
+}
+
+.bio2
+{
+	color: white;
+	position: absolute;
+	top: 1390px;
+  	left: 30px;
+	font-size: 20px;
+	text-align: left;
+	font-family: 'Comfortaa', cursive;
+	line-height: 1.6;
+}
+
+.trumpetspic
+{
+	position: absolute;
+	top: 1120px;
+	left: 970px;
+}

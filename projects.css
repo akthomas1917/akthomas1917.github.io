@@ -1,0 +1,62 @@
+.projects
+{
+	position: absolute;
+	top: 60px;
+	left: 600px;
+	padding: 0;
+	color: white;
+	font-size: 95px;
+	font-family: 'Comfortaa', cursive;
+}
+
+.connectfourpic
+{
+	position: absolute;
+	top: 150px;
+	left: 190px;
+}
+
+.connectfourdesc
+{
+  position: absolute;
+  top: 530px;
+  left: 130px;
+  color: white;
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+	text-align: center;
+}
+
+table, th, td
+{
+  border: 3px solid white;
+  border-collapse: collapse;
+  height: 108px;
+  width: 1005px;
+
+}
+
+.link
+{
+	font-size: 15px;
+	padding-left: 0px;
+	text-decoration: underline;
+}
+
+.webdevpic
+{
+	position: absolute;
+	top: 150px;
+	left: 930px;
+}
+
+.webdevdesc
+{
+	position: absolute;
+  top: 530px;
+  left: 910px;
+  color: white;
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+	text-align: center;
+}
