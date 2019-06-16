@@ -10,17 +10,6 @@
 
 }
 
-.about
-{
-	position: absolute;
-	top: 680px;
-	left: 540px;
-	padding: 0;
-	color: white;
-	font-size: 95px;
-	font-family: 'Comfortaa', cursive;
-}
-
 .homepic
 {
 	position: absolute;
@@ -35,23 +24,30 @@
 	left: 850px;
 }
 
+.instagram
+{
+	position: absolute;
+	top: 800px;
+	left: 538px;
+}
+
 .twitter
 {
 	position: absolute;
-	top: 850px;
+	top: 970px;
 	left: 532px;
 }
 
 .linkedin
 {
 	position: absolute;
-	top: 1080px;
-	left: 532px;
+	top: 1170px;
+	left: 539px;
 }
 
 .github
 {
 	position: absolute;
-	top: 1300px;
-	left: 532px;
+	top: 1350px;
+	left: 538px;
 }
