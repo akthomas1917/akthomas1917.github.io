@@ -4,7 +4,7 @@
 	top: 60px;
 	left: 600px;
 	padding: 0;
-	color: white;
+	color: black;
 	font-size: 95px;
 	font-family: 'Comfortaa', cursive;
 }
@@ -21,7 +21,7 @@
   position: absolute;
   top: 530px;
   left: 130px;
-  color: white;
+  color: black;
   font-family: 'Comfortaa', cursive;
   font-size: 15px;
 	text-align: center;
@@ -55,7 +55,7 @@ table, th, td
 	position: absolute;
   top: 530px;
   left: 910px;
-  color: white;
+  color: black;
   font-family: 'Comfortaa', cursive;
   font-size: 15px;
 	text-align: center;

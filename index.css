@@ -2,9 +2,9 @@
 {
 	position: absolute;
 
-	top: 260px;
-	left: 560px;
-  font-size: 100px;
+	top: 350px;
+	left: 940px;
+  font-size: 90px;
   color: white;
 	font-family: 'Raleway', sans-serif;
 
@@ -13,41 +13,41 @@
 .homepic
 {
 	position: absolute;
-	top: 780px;
+	top: 900px;
 	left: 140px;
 }
 
 .resume
 {
 	position: absolute;
-	top: 780px;
+	top: 900px;
 	left: 850px;
 }
 
 .instagram
 {
 	position: absolute;
-	top: 800px;
-	left: 538px;
+	top: 920px;
+	left: 513px;
 }
 
 .twitter
 {
 	position: absolute;
-	top: 970px;
-	left: 532px;
+	top: 1090px;
+	left: 505px;
 }
 
 .linkedin
 {
 	position: absolute;
-	top: 1170px;
-	left: 539px;
+	top: 1290px;
+	left: 510px;
 }
 
 .github
 {
 	position: absolute;
-	top: 1350px;
-	left: 538px;
+	top: 1470px;
+	left: 508px;
 }
