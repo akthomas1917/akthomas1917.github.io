@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rajdhani&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body
+{
+    background: #fbc531;
+    min-height: 100vh;
+}
+
+.container
+{
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+  margin-top: 80px;
+}
+
+.txtb
+{
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #000;
+  background: none;
+  padding: 10px;
+  outline: none;
+  font-size: 80px;
+  font-family: 'Rajdhani', sans-serif;
+  color: white;
+}
+
+h3
+{
+    margin: 10px 0;
+}
+
+.task
+{
+  width: 100%;
+  background: green;
+  padding: 18px;
+  margin: 6px 0;
+  overflow: hidden;
+}
+
+.task i
+{
+  float: right;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.comp .task
+{
+  background: #e84118;
+  color: white;
+}
+
+.notcomp .task
+{
+  background: #4cd137;
+  color: white;
+}
+
+.notcomp
+{
+  font-size: 30px;
+  color: #4cd137;
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: bold;
+}
+
+.comp
+{
+    font-size: 30px;
+    color: #e84118;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+}
+
+.title
+{
+  color: #40739e;
+  font-size: 70px;
+  position: absolute;
+  left: 25px;
+  top: 10px;
+  font-weight: bold;
+  font-family: 'Righteous', cursive;
+}
+
+.desc
+{
+  color: #40739e;
+  font-size: 20px;
+  position: absolute;
+  left: 40px;
+  top: 100px;
+  font-family: 'Righteous', cursive;
+}

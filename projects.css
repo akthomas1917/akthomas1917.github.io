@@ -60,3 +60,21 @@ table, th, td
   font-size: 15px;
 	text-align: center;
 }
+
+.playnextdesc
+{
+	position: absolute;
+  top: 1080px;
+  left: 170px;
+  color: black;
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+	text-align: center;
+}
+
+.playnextpic
+{
+	position: absolute;
+	top: 700px;
+	left: 190px;
+}
