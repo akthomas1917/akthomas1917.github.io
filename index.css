@@ -1,10 +1,15 @@
+body
+{
+	background-color: #60a3bc;
+}
+
 .txt-rotate
 {
 	position: absolute;
 
-	top: 350px;
-	left: 940px;
-  font-size: 90px;
+	top: 550px;
+	left: 520px;
+  font-size: 50px;
   color: white;
 	font-family: 'Raleway', sans-serif;
 
@@ -13,41 +18,49 @@
 .homepic
 {
 	position: absolute;
-	top: 900px;
+	top: 860px;
 	left: 140px;
 }
 
 .resume
 {
 	position: absolute;
-	top: 900px;
+	top: 860px;
 	left: 850px;
 }
 
 .instagram
 {
 	position: absolute;
-	top: 920px;
+	top: 880px;
 	left: 513px;
 }
 
 .twitter
 {
 	position: absolute;
-	top: 1090px;
-	left: 505px;
+	top: 1035px;
+	left: 490px;
 }
 
 .linkedin
 {
 	position: absolute;
-	top: 1290px;
+	top: 1250px;
 	left: 510px;
 }
 
 .github
 {
 	position: absolute;
-	top: 1470px;
+	top: 1430px;
 	left: 508px;
+}
+
+.extraspace
+{
+	position: absolute;
+	top: 1560px;
+	color: white;
+	font-size: 20px;
 }

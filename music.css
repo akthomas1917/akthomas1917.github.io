@@ -1,3 +1,7 @@
+body
+{
+		background-color: #EE5A24;
+}
 .music
 {
 	position: absolute;
@@ -97,4 +101,12 @@
 	font-size: 20px;
 	font-family: 'Comfortaa', cursive;
 	text-align: center;
+}
+
+.extraspace
+{
+	position: absolute;
+	top: 1040px;
+	color: white;
+	font-size: 20px;
 }

@@ -1,3 +1,8 @@
+body
+{
+		background-color: #60a3bc;
+}
+
 .photography
 {
 	position: absolute;
@@ -17,4 +22,12 @@
 	line-height: 0;
 	float: left;
 	display: inline-block;
+}
+
+.extraspace
+{
+	position: absolute;
+	top: 1550px;
+	color: white;
+	font-size: 20px;
 }

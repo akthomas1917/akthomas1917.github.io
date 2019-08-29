@@ -1,3 +1,8 @@
+body
+{
+	background-color: #f1c40f;
+
+}
 .projects
 {
 	position: absolute;
@@ -77,4 +82,30 @@ table, th, td
 	position: absolute;
 	top: 700px;
 	left: 190px;
+}
+
+.pysocialdesc
+{
+	position: absolute;
+  top: 1080px;
+  left: 880px;
+  color: black;
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+	text-align: center;
+}
+
+.pysocialpic
+{
+	position: absolute;
+	top: 700px;
+	left: 930px;
+}
+
+.extraspace
+{
+	position: absolute;
+	top: 1220px;
+	color: white;
+	font-size: 20px;
 }
