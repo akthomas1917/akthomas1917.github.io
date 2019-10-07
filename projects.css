@@ -84,7 +84,7 @@ table, th, td
 	left: 190px;
 }
 
-.pysocialdesc
+.pyswipedesc
 {
 	position: absolute;
   top: 1080px;
@@ -95,7 +95,7 @@ table, th, td
 	text-align: center;
 }
 
-.pysocialpic
+.pyswipepic
 {
 	position: absolute;
 	top: 700px;
